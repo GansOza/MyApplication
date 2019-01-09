@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "665356082587",
+    "firebase_url": "https://css-3af82.firebaseio.com",
+    "project_id": "cssgmail",
+    "storage_bucket": "cssgmail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665356082587:android:b7413e4820e8b47b",
+        "android_client_info": {
+          "package_name": "com.example.admin_pc.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665356082587-gn63lm2l7lcmt6tqbj0a7t9qn5kitkgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin_pc.myapplication",
+            "certificate_hash": "8ccc948de8e3e8df41266cf556f002d41bcd8b7e"
+          }
+        },
+        {
+          "client_id": "665356082587-ete7dedm8mdo3oekm1cp0s61semm1qks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkiEGzAjyRJXe_b3HJpzgp1B1e5eUAFA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
